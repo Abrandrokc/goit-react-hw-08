@@ -1,0 +1,19 @@
+.li{
+    width: calc((100% - 20px)/5);
+    display: inline-block;
+    border: 2px black solid;
+    position: relative;
+    display: flex;
+    gap: 10px
+}
+.click{
+   margin-top: 45px;
+   margin-bottom: 45px;
+    height: 20px;
+    
+  
+    text-align: center;
+}
+.div{
+    margin-left: 15px;
+}

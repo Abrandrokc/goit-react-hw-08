@@ -1,0 +1,8 @@
+.SearchBox{
+    display: flex; 
+    flex-direction: column;
+    margin-top: 20px;
+}
+.Input{
+    width: 300px;
+}
